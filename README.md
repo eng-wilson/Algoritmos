@@ -2,7 +2,7 @@
 
 ## Solutions written in Java
 
-## Algorithms used:
+### Algorithms used:
 
 - Kruskal Algorithm: Minimun Spanning Tree
 - Backtracking: Find Maze Exit
